@@ -1,0 +1,17 @@
+C:\mpt\С#\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.exe
+C:\mpt\С#\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.deps.json
+C:\mpt\С#\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.runtimeconfig.json
+C:\mpt\С#\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.dll
+C:\mpt\С#\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.pdb
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.AssemblyReference.cache
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfoInputs.cache
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfo.cs
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CoreCompileInputs.cache
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.dll
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\refint\SpeedTest.dll
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.pdb
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.genruntimeconfig.cache
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\ref\SpeedTest.dll
+C:\mpt\С#\SpeedTest\SpeedTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\mpt\С#\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CopyComplete
